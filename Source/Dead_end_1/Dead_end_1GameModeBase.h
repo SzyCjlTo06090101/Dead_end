@@ -13,5 +13,8 @@ UCLASS()
 class DEAD_END_1_API ADead_end_1GameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
-	
+
+public:
+	UFUNCTION(BlueprintCallable)
+	static  FString ReturnTt();
 };
