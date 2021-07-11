@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:CONSOLE
+/DEF
+/NAME:"UnrealHeaderTool-UnLuaIntelliSense.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\Work_Study\FlappBird\Intermediate\Build\Win64\UnrealHeaderTool\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h.obj"
+"G:\Work_Study\FlappBird\Plugins\UnLua\Intermediate\Build\Win64\UnrealHeaderTool\Development\UnLuaIntelliSense\UnLuaIntelliSense.cpp.obj"
+"G:\Work_Study\FlappBird\Plugins\UnLua\Intermediate\Build\Win64\UnrealHeaderTool\Development\UnLuaIntelliSense\Default.rc2.res"
+/OUT:"G:\Work_Study\FlappBird\Plugins\UnLua\Intermediate\Build\Win64\UnrealHeaderTool\Development\UnLuaIntelliSense\UnrealHeaderTool-UnLuaIntelliSense.lib"
+/INCLUDE:IMPLEMENT_MODULE_UnLuaIntelliSense

@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:CONSOLE
+/DEF
+/NAME:"UnrealHeaderTool-UnLuaDefaultParamCollector.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\Work_Study\FlappBird\Intermediate\Build\Win64\UnrealHeaderTool\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h.obj"
+"G:\Work_Study\FlappBird\Plugins\UnLua\Intermediate\Build\Win64\UnrealHeaderTool\Development\UnLuaDefaultParamCollector\UnLuaDefaultParamCollector.cpp.obj"
+"G:\Work_Study\FlappBird\Plugins\UnLua\Intermediate\Build\Win64\UnrealHeaderTool\Development\UnLuaDefaultParamCollector\Default.rc2.res"
+/OUT:"G:\Work_Study\FlappBird\Plugins\UnLua\Intermediate\Build\Win64\UnrealHeaderTool\Development\UnLuaDefaultParamCollector\UnrealHeaderTool-UnLuaDefaultParamCollector.lib"
+/INCLUDE:IMPLEMENT_MODULE_UnLuaDefaultParamCollector
